@@ -1,6 +1,6 @@
 # MLflow Model Versioning Template
 
-This is a minimal, GitHub-ready example project demonstrating **model versioning with MLflow**.
+This is a project demonstrating **model versioning with MLflow**.
 It includes:
 - A training script that logs experiments and registers models to MLflow.
 - An evaluation script to load specific model versions or stages.
