@@ -7,7 +7,7 @@ It includes:
 - A small script to run a local MLflow tracking & registry server (SQLite backend).
 - Requirements, .gitignore, and helpful usage instructions.
 
-## Quick start (local, no server)
+## Quick start (locally)
 1. Create a virtual environment and install dependencies:
    ```bash
    python -m venv venv
