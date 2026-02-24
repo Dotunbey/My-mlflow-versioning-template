@@ -6,7 +6,7 @@ This script:
  - Logs params, metrics, artifacts to MLflow
  - Optionally registers the model under a given registered model name
 
-Usage:
+Usage step:
     python train.py --experiment "MyExperiment" --register-name "RegressionModel"
 """
 import argparse
